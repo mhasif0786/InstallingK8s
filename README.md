@@ -1,14 +1,14 @@
-# InstallingK8s
+## InstallingK8s
     Installing k8s using kubeadm
-# Install container first 
+## Install container first 
     mhasifkamal@k8s:~$ date
     Thu Oct 29 11:11:31 PM IST 2026
 
-# Check port is open in order for Kubernetes components to communicate with each other.
+## Check port is open in order for Kubernetes components to communicate with each other.
     mhasifkamal@k8s:~$ nc 127.0.0.1 6443 -zv -w 2
     nc: connect to 127.0.0.1 port 6443 (tcp) failed: Connection refused
 
-# Disable swap
+## Disable swap
     mhasifkamal@k8s:~$ sudo swapoff -a
     mhasifkamal@k8s:~$ free -mh
                 total        used        free      shared  buff/cache   available
@@ -32,4 +32,4 @@
     mhasifkamal@k8s:~$ sudo vi /etc/fstab
 
 
-image.png
+! image.png
