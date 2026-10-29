@@ -32,4 +32,4 @@
     mhasifkamal@k8s:~$ sudo vi /etc/fstab
 
 
-! image.png
+![Image] (image.png)
