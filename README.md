@@ -32,4 +32,4 @@
     mhasifkamal@k8s:~$ sudo vi /etc/fstab
 
 
-![Image] (Screenshot 2026-10-29 at 11.22.18 PM.png)
+<img width="993" height="349" alt="Screenshot 2026-10-29 at 11 22 18 PM" src="https://github.com/user-attachments/assets/9ae1e203-b536-455c-aa8e-ade082bfe840" />
